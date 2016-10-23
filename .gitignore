@@ -31,6 +31,15 @@
 log/
 pikatests/
 
+
+
 # third party
 gdb.txt
 tags
+
+.idea/
+.idea/vcs.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pika.iml
+.idea/workspace.xml
